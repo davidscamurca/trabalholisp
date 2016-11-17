@@ -21,9 +21,15 @@ após você jogar, tem que mandar a IA jogar;
 
 
 
-# Observações 
+    Este programa é um software livre; você pode redistribuí-lo e/ou 
+    modificá-lo dentro dos termos da Licença Pública Geral GNU como 
+    publicada pela Fundação do Software Livre (FSF); na versão 3 da 
+    Licença, ou (na sua opinião) qualquer versão.
 
-O jogo não fui eu quem fiz, todas as instruções aqui criada são com base em códigos já existentes, e todo o mérito vão a eles,
-apenas o que fiz foi modificar algumas linhas para melhor entendimento para meu grupo de trabalho.
+    Este programa é distribuído na esperança de que possa ser útil, 
+    mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO
+    a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a
+    Licença Pública Geral GNU para maiores detalhes.
 
-Autorizo a baixar e testar, caso queira distribuir sugiro que faça o mesmo, não receba os créditos somente para você, diga que foi baseado em projetos já existentes.
+    Você deve ter recebido uma cópia da Licença Pública Geral GNU junto
+    com este programa. Se não, veja <http://www.gnu.org/licenses/>.
